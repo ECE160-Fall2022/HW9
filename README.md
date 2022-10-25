@@ -1,6 +1,6 @@
 # ECE160 - HW#9
 
-Due 11/05/21 at 11:59:59PM.  
+Due 11/05/22 at 11:59:59PM.  
 Late submissions are subject to a 20% late penalty.  
 
 ## Reading
@@ -11,12 +11,12 @@ You may work individually or in a pair for all assignments. If you do so, make s
 
 For each question, you will be submitting the homework via Github pull requests, just like how the industry submits code for review. 
 
-Please follow the instructions carefully. Note: failure to do so will result in a reduction of 10% of this homework grade. If you make a mistake, you can always delete the entire repo and try again (but of course, save your code).  
+Please follow the instructions carefully. Note: failure to do so will result in a reduction of 20% of this homework grade. If you make a mistake, you can always delete the entire repo and try again (but of course, save your code).  
 1. Go to the provided hw link.  
 2. Create a team (individual or a pair).  
-3. Clone the repository to your unix environment and work on the master branch. If you are working in a pair, each of you will have to make at least 1 commit.
-4. Answer each question in their respective folder and name the file q#.py where # is the question number. Do this unless otherwise specified.  
-5. Push your master branch to the Github repository.
+3. Clone the repository to your unix environment and work on the main branch. If you are working in a pair, each of you will have to make at least 1 commit.
+4. Answer each question in their respective folder and name the file q#.c where # is the question number. Do this unless otherwise specified.  
+5. Push your main branch to the Github repository.
 6. This will automatically create a pull request and perform auto grading.
 
 For all questions, you must do the following:
